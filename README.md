@@ -64,7 +64,9 @@ This project is a multi-lingual summarizer application built using Python and St
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+- Gampala Prabhas
+- Akula Saketh
+- Akash Chawla
 
 ## License
 
